@@ -97,7 +97,7 @@ export class WithState extends React.Component<
     }
 
     // private functions should be set as lambda values
-    // so they bind the this value automatically
+    // so they bind to 'this.' automatically
     clickCallback = () => {
 
         // Call setState to change state and trigger a re-render
