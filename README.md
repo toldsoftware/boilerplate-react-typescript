@@ -49,7 +49,7 @@
 }
 ```
 
-- [ ] Add `webpac.config.js` to setup webpack (includes setup for typescript and browsersync)
+- [ ] Add `webpack.config.js` to setup webpack (includes setup for typescript and browsersync)
 
 ```javascript
 const BrowserSyncPlugin = require('browser-sync-webpack-plugin');
