@@ -45,7 +45,6 @@
 {
   "extends": ["tslint:latest", "tslint-react"],
   "rules": {
-    // override tslint-react rules here
     "jsx-wrap-multiline": false
   }
 }
