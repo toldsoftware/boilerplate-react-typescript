@@ -3,7 +3,9 @@
 ## Prerequisites
 
 - Node
+    - Install latest version of node according to your platform's instructions
 - Typescript
+    - `npm install -g typescript`
 
 ## Steps
 
