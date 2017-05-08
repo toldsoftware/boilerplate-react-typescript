@@ -162,6 +162,7 @@ export const App = () => (
 - [ ] Run (with automatic reloading on source change)
     - `webpack -w`
 
+- [ ] See `src/components/examples.tsx` for various ways to declare components
 
 
 
